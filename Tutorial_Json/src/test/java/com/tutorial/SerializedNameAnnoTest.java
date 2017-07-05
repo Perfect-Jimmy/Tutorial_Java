@@ -5,6 +5,7 @@ import com.tutorial.pojo.Student;
 
 /**
  * Created by jimmy on 2017/7/4.
+ * 属性重命名 @SerializedName 注解的使用
  */
 public class SerializedNameAnnoTest {
     public static void main(String[] args){

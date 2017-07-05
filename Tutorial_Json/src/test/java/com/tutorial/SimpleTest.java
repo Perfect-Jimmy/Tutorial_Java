@@ -5,6 +5,7 @@ import com.tutorial.pojo.Book;
 
 /**
  * Created by jimmy on 2017/7/4.
+ * Gson提供了fromJson()和toJson()两个直接用于解析和生成的方法
  */
 public class SimpleTest {
 
@@ -12,7 +13,7 @@ public class SimpleTest {
        // SimpleTest.toGsonTest();
        // SimpleTest.fromGsonTest();
        // SimpleTest.beanToJson();
-        SimpleTest.beanFromJson();
+       // SimpleTest.beanFromJson();
     }
 
     //基本数据类型序列化
